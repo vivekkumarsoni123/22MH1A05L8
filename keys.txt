@@ -1,0 +1,17 @@
+{
+  "email": "vivek321soni@gmail.com",
+  "name": "vivek kumar soni",
+  "rollNo": "22mh1a05l8",
+  "accessCode": "NFwgRT",
+  "clientID": "5528f3d2-b0b7-41d6-a08c-d05cfe1d599f",
+  "clientSecret": "zRuUQpUkGyQufwYs"
+}
+
+
+
+
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJ2aXZlazMyMXNvbmlAZ21haWwuY29tIiwiZXhwIjoxNzUwOTE4NDk5LCJpYXQiOjE3NTA5MTc1OTksImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiIzOGQ3MTVkMC02MDU4LTQwNmEtOTJmMy1kYTcyOWEwN2JiYzYiLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJ2aXZlayBrdW1hciBzb25pIiwic3ViIjoiNTUyOGYzZDItYjBiNy00MWQ2LWEwOGMtZDA1Y2ZlMWQ1OTlmIn0sImVtYWlsIjoidml2ZWszMjFzb25pQGdtYWlsLmNvbSIsIm5hbWUiOiJ2aXZlayBrdW1hciBzb25pIiwicm9sbE5vIjoiMjJtaDFhMDVsOCIsImFjY2Vzc0NvZGUiOiJORndnUlQiLCJjbGllbnRJRCI6IjU1MjhmM2QyLWIwYjctNDFkNi1hMDhjLWQwNWNmZTFkNTk5ZiIsImNsaWVudFNlY3JldCI6InpSdVVRcFVrR3lRdWZ3WXMifQ.xyo3nwdaQwMp_Jt31tpChcDL_eK8-iI8QUfAdpe01hg",
+  "expires_in": 1750918499
+}
